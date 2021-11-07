@@ -3,4 +3,7 @@ class Offer:
 
 
 class Buyer:
-    pass
+    def bid_on_offer(self):
+        pass
+
+    
