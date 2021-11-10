@@ -7,9 +7,6 @@ class Buyer:
     def bid_on_offer(self):
         pass
 
-    def deposit_money_to_wallet(self):
-        pass
-
 
 class Seller:
     def create_offer(self):
@@ -17,4 +14,5 @@ class Seller:
 
 
 class Ewallet:
-    pass
+    def deposit_money(self):
+        pass
