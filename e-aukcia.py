@@ -12,4 +12,5 @@ class Buyer:
 
 
 class Seller:
-    pass
+    def create_offer(self):
+        pass
