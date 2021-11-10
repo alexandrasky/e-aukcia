@@ -14,3 +14,7 @@ class Buyer:
 class Seller:
     def create_offer(self):
         pass
+
+
+class Ewallet:
+    pass
