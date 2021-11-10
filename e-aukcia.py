@@ -1,5 +1,6 @@
 class Offer:
-    pass
+    def select_winner(self):
+        pass
 
 
 class Buyer:
@@ -9,3 +10,6 @@ class Buyer:
     def deposit_money_to_wallet(self):
         pass
 
+
+class Seller:
+    pass
